@@ -150,7 +150,7 @@ Key influential features included:
 * Loan amount
 * Asset ownership indicators
 
-![Feature Importance](top_feature_importances_random_forest.png)
+![Feature Importance](top_feature_importances_rf.png)
 
 ---
 
